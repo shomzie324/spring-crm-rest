@@ -5,6 +5,8 @@
 
 <hr>
 
+<h3>End Points:</h3>
+<ul><a href="/api/customers">Get all customers</a></ul>
 
 </body>
 </html>
